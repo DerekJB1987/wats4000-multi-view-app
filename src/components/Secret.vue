@@ -8,7 +8,7 @@
   export default {
     data () {
       return {
-        message: 'Always use Inspect on your web apps'
+        message: 'Always use your Developer debugging tools with your web apps'
       }
     }
   }
