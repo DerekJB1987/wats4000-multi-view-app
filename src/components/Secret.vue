@@ -4,6 +4,7 @@
     <ul>
       <li><router-link to="Home">Home</router-link></li>
       <li><router-link to="Survey">Survey</router-link></li>
+    </ul>
   </div>
 </template>
 
@@ -19,7 +20,7 @@
 
 <style scoped>
   .component {
-    background: #e8e8e8;
+    background: #ffffff;
     min-height: 400px;
   }
 </style>
