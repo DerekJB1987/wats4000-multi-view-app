@@ -2,7 +2,7 @@
   <div class="component">
     <h1>{{ message }}</h1>
     <ul>
-      <li><router-link to="Home">Home</router-link></li>
+      <li><router-link to="/">Home</router-link></li>
       <li><router-link to="Survey">Survey</router-link></li>
     </ul>
   </div>
